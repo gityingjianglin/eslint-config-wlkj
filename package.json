@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gityingjianglin/eslint-config-common.git"
+    "url": "git+https://github.com/gityingjianglin/eslint-config-wlkj.git"
   },
   "keywords": [
     "eslint",
-    "eslint-config-common"
+    "eslint-config-wlkj"
   ],
   "author": "yingjianglin123@163.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gityingjianglin/eslint-config-common/issues"
+    "url": "https://github.com/gityingjianglin/eslint-config-wlkj/issues"
   },
-  "homepage": "https://github.com/gityingjianglin/eslint-config-common#readme"
+  "homepage": "https://github.com/gityingjianglin/eslint-config-wlkj#readme"
 }
