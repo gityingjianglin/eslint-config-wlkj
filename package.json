@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-wlkj",
+  "version": "1.0.0",
+  "description": "ESLint Config for frontend team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gityingjianglin/eslint-config-common.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config-common"
+  ],
+  "author": "yingjianglin123@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gityingjianglin/eslint-config-common/issues"
+  },
+  "homepage": "https://github.com/gityingjianglin/eslint-config-common#readme"
+}
